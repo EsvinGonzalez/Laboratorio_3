@@ -1,0 +1,8 @@
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\bin\Debug\Multiplicar.exe.config
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\bin\Debug\Multiplicar.exe
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\bin\Debug\Multiplicar.pdb
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\obj\Debug\Multiplicar.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\obj\Debug\Multiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\obj\Debug\Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\obj\Debug\Multiplicar.exe
+C:\Users\Giovanni\source\repos\Multiplicar\Multiplicar\obj\Debug\Multiplicar.pdb

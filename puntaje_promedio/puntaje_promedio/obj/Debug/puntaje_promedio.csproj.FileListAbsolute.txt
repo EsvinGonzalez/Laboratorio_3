@@ -1,0 +1,8 @@
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\bin\Debug\puntaje_promedio.exe.config
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\bin\Debug\puntaje_promedio.exe
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\bin\Debug\puntaje_promedio.pdb
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\obj\Debug\puntaje_promedio.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\obj\Debug\puntaje_promedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\obj\Debug\puntaje_promedio.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\obj\Debug\puntaje_promedio.exe
+C:\Users\Giovanni\source\repos\puntaje_promedio\puntaje_promedio\obj\Debug\puntaje_promedio.pdb

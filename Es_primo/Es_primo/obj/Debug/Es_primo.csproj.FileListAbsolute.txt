@@ -1,0 +1,8 @@
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\bin\Debug\Es_primo.exe.config
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\bin\Debug\Es_primo.exe
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\bin\Debug\Es_primo.pdb
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\obj\Debug\Es_primo.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\obj\Debug\Es_primo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\obj\Debug\Es_primo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\obj\Debug\Es_primo.exe
+C:\Users\Giovanni\source\repos\Es_primo\Es_primo\obj\Debug\Es_primo.pdb
